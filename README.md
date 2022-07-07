@@ -13,15 +13,15 @@
 2. 데이터 사이언스
 : 다양한 머신러닝 알고리즘 적용 경험 (TensorFlow/Keras, PyTorch, scikit-learn 등)
 : 지속적으로 Kaggle 출전 중 현재 작업 중 대회(8개)  https://www.kaggle.com/drjhsim
-
+: 연습 문제와 다양한 TOY MODLE은 국내 대회를 통하여 지속적으로 테스트 중입니다. https://dacon.io/myprofile/436968/home 
 
 Data science
 
-1. 머신러닝
-  : 분류 모델
-  : 회귀 모델
-  : 클러스터 모델
+1. 머신러닝 #
+  : 분류 모델 #
+  : 회귀 모델 #
+  : 클러스터 모델 #
   
-2. 딥러닝 
-  : tensorflow
-  : Keras 
+2. 딥러닝 # 
+  : tensorflow #
+  : Keras #
